@@ -13,7 +13,12 @@ And push it to Azure Function, Scary!
 #>
 
 ## Demo 1: No checking
+# Zoooooooooom
+# Start Transcript
+Start-TKTranscript "PnP Dynamic Parameter Values"
+
 # Show List
+# Zoooooooooom
 https://1kgvf.sharepoint.com/teams/dcptest12/Lists/CarsandColors/AllItems.aspx
 
 # Connect to my site
